@@ -1,4 +1,4 @@
-package org.mydevnotes.stock_tracker_rest;
+package org.mydevnotes.stocktracker.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
