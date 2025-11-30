@@ -25,7 +25,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping("/api/tickers")
+@RequestMapping("/tickers")
 @Tag(name = "Tickers", description = "API for stock tickers")
 public class TickerController {
 
